@@ -1,4 +1,5 @@
-#Diarmuid Whelan 2018-02-10
+#GMIT DATA ANALYTICS SCRIPTING AND PROGRAMMING
+# Diarmuid Whelan 2018-02-10
 #Collatz Conjecture Exercise
 #https://en.wikipedia.org/wiki/Collatz_conjecture
 
