@@ -1,8 +1,7 @@
-##GMIT DATA ANALYTICS
-# scripting_and_programming
-
+## GMIT DATA ANALYTICS
 GMIT Programming and Scripting Module  Feb 18
-Contains Exercise for continuos assessment component of the module
+
+Contains Exercise for continuous assessment component of the module
 
 Week 1 and Week 2 Exercises in a single file named "fibname.py"
 
