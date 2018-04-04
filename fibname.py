@@ -1,5 +1,6 @@
 #################################################################################
-#Diarmuid Whelan
+##GMIT Scripting and Programming
+# Diarmuid Whelan
 #Exercise 1
 # A program that displays Fibonacci numbers.
 #D+D =8 PROGRAM WILL DISPLAY 8TH FIBONACCI NUMBER 
@@ -42,7 +43,8 @@ print("Fibonacci number", x, "is", ans)
 
 
 ######################################################################################################
-# Diarmuid Whelan
+#GMIT Scripting and Programming
+#Diarmuid Whelan
 #Exercise 2
 # A program that displays Fibonacci numbers using people's names.
 ##########################################################################################################

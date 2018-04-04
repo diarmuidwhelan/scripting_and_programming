@@ -1,9 +1,13 @@
-#GMIT DATA ANALYTICS SCRIPTING AND PROGRAMMING
-# Diarmuid Whelan 2018-02-10
+#################################################################################
+##GMIT Scripting and Programming
+#Diarmuid Whelan 2018-02-10
 #Collatz Conjecture Exercise
 #https://en.wikipedia.org/wiki/Collatz_conjecture
+#Will use 1992(year I was born) to test
+#################################################################################
 
-n = 1992
+
+n = 1992 
 while n >1:
     if n % 2 == 0:
         n=n/2
