@@ -2,6 +2,10 @@
 #GMIT Scripting and Programming
 #Diarmuid Whelan, 2018-02-25
 #Euler Problem 5
+#The problem is as follows. 2,520 is the smallest number that can be divided by each of the numbers 
+#from 1 to 10 without any remainder.
+#Write a Python program using for and range to calculate the smallest positive number that is 
+#evenly divisible by all of the numbers from 1 to 20.
 #################################################################################
 
 smallest_num = 1
