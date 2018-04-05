@@ -11,4 +11,4 @@ for i in range (1,21):
             if (smallest_num * k) % i == 0: # Find the smallest number divisible by i    
                 smallest_num = smallest_num * k
                 break
-print (smallest_num)
+print ('Smallest number divisible by 1 to 20 inclusive: ', smallest_num)

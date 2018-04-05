@@ -8,10 +8,10 @@
 
 
 n = 1992 
-while n >1:
-    if n % 2 == 0:
+while n >1:    #continue until n=1
+    if n % 2 == 0:  #if n is divisible evenly by 2 do so 
         n=n/2
         print(n) 
     else:
-        n=3*n+1
+        n=3*n+1     #if n is not divisible by 2 multiply by 3 and add 1
         print(n)
